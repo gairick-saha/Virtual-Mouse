@@ -1,6 +1,5 @@
 # File name: vmouse.py
 # Author: Gairick Saha
-# Date created: 4/20/2013
 # Date last modified: 29/03/2019
 # Python Version: 3.7
 
