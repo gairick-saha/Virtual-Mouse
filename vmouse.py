@@ -123,7 +123,7 @@ while True:
         
         
     #showing the results 
-    cv2.imshow("Gesture-Mouse",img)
+    cv2.imshow("Virtual  Mouse",img)
 
     #waiting for 'W' to be pressed to quit 
     if cv2.waitKey(1) & 0xFF==ord('w'):
